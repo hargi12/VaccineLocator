@@ -1,7 +1,7 @@
 <?php
 # author: Gichuhi Haron
-# Email: hgichuhi@hykartech.com
-# Company: HykarTech (www.hykartech.com)
+# Email: data@datavas.com
+# Company: Datavas (www.datavas.org)
 # Date: Saturday, January 15, 2022
 # Location: Kampala, Uganda
 # Description: A simple api that returns json data after computing the distance
