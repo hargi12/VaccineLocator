@@ -14,7 +14,7 @@
     	echo "Connected successfully";
     }
 
-    // Bucaramanga Coordinates
+    // sample coordinates
     // $lat = 7.08594109039762;
     // $lng = 86.95225338731285;
     $lat = $_GET['latitude'];
